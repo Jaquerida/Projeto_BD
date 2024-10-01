@@ -1,6 +1,6 @@
 # Avaliação Bancos de Dados I
 
-# Alunos: Fernanda Polga, Gabriel Melo, Jaqueline Bonnevialle, Rafael Bittencourt, Vitor Galves.
+# Alunos: Fernanda Polga, Gabriel Maio, Jaqueline Bonnevialle, Rafael Bittencourt, Vitor Galves.
 
 ### Modelagem e normalização de bancos de dados relacionais
 Certo dia, um dos gestores do banco em que você trabalha como cientista de dados procurou você pedindo ajuda para projetar um pequeno banco de dados com o objetivo de mapear os clientes da companhia pelos diferentes produtos financeiros que eles contrataram.
